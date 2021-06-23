@@ -1,0 +1,13 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.control-label {
+    font-weight: bolder;
+}
+
+.controls {
+    border-bottom: 1px solid #000;
+}
